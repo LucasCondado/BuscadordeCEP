@@ -1,6 +1,5 @@
 function getcep() {
     let cepC = document.getElementById("cep").value;
-    var cepCliente = document.getElementById('cep').value;
     const ajax = new XMLHttpRequest();
     ajax.open('GET', 'https://viacep.com.br/ws/' + cepC + '/json/');
     ajax.send();
