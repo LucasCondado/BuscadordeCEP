@@ -26,7 +26,7 @@ function getcep() {
 
         document.getElementById("copiar").addEventListener("click", () => {
             navigator.clipboard.writeText(enderecoCompleto).then(() => {
-                alert("Endereço copiado para a área de transferência!");
+                alert("Copiado na Área de transferência");
             }).catch(err => {
                 alert("Erro ao copiar: " + err);
             });
