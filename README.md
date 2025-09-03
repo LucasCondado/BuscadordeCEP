@@ -21,3 +21,5 @@ O **Buscador de CEP** é uma aplicação web simples e direta que permite ao usu
 
 2. Ou rode em hospedagem via GitHub.
    
+   [Buscador de CEP](https://lucascondado.github.io/BuscadordeCEP/)
+
