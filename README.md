@@ -20,5 +20,5 @@ O **Buscador de CEP** é uma aplicação web simples e direta que permite ao usu
    git clone https://github.com/LucasCondado/BuscadordeCEP.git
 
 2. Ou rode em hospedagem via GitHub
-3. ```
+   
    [Buscador de CEP](https://lucascondado.github.io/BuscadordeCEP/)
