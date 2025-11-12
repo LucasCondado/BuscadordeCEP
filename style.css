@@ -2,19 +2,26 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: x-large;
     text-align: center;
-    background-color: rgb(15, 181, 115);
-    color: rgb(129, 25, 189);
+    background-color: #d8e0ee;
+    color: #5B2E91;
 }
+
+h1 {
+    color: #3A0CA3;
+}
+
 button{
-    background-color: rgb(214, 232, 225);
+    background-color: #C8F0E4;
     color: blueviolet;
-    border-color: blueviolet;
+    border-color: #8E44AD;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-radius: 10px;
 }
 input {
-    background-color: coral;
+    background-color: #BEE3F8;
+    color: #1A2A40;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     border-radius: 10px;
     text-align: center;
+    border-color: #4682B4;
 }
